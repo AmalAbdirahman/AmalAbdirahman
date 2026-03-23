@@ -8,7 +8,7 @@ I am passionate about leveraging data to understand and model the world around u
 
 ### 🧐 About Me
 
-- 🔭 I’m currently working on **Statistical Modelling** and **Machine Learning** projects.
+- 🔭 I’m currently working on **Neural Networks** and **Machine Learning** projects.
 - ⚽ **Beyond the numbers:** I am an avid fan of **Football** and **Formula 1**.
 - 🏎️ **My Goal:** Integrating data science into sports analytics—from performance analysis to predictive race strategies.
 - 💬 Ask me about **R, Python, or why F1 strategy is just game theory in motion.**
