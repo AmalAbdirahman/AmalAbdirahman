@@ -1,6 +1,6 @@
 # Hi there, I'm Amal Abdirahman 👋
 
-### 📐 Mathematics Student | 📊 Statistics Enthusiast | 🤖 ML Aspirant
+### 📐 Mathematics Student | 📊 Machine Learning
 
 I am passionate about leveraging data to understand and model the world around us. My work sits at the intersection of **quantitative analysis** and **real-world applications**.
 
