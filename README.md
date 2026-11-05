@@ -83,9 +83,8 @@ My site is an interactive notebook: a portrait drawn in characters, dice that pr
 
 ### 📓 Off the clock
 
-🏎️ F1 and Formula E · ⚽ Chelsea · ✈️ planes · 🚆 trains · 🔌 electrical engineering, semiconductors and quantum computing
+🏎️ Motorsport · ⚽ Football · ✈️ Planes · 🚆 Trains · 🔌 electrical engineering, semiconductors and quantum computing
 
-**Next up:** 📡 building my own aircraft receiver from an old laptop and a radio dongle, to model when planes pass over my window.
 
 ---
 
