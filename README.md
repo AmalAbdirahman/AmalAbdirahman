@@ -100,7 +100,7 @@ This repo hosts my portfolio (`index.html`, served by GitHub Pages).
 
 </details>
 
-<p align="center"><sub>CV available on request · Built with mathematics and stubborn curiosity</sub></p>
+<p align="center"><sub>CV available on request · </sub></p>
 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amalabdirahman)
